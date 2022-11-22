@@ -1,2 +1,2 @@
 # work_with_files
-it was a school homework but I didn't finished it
+it was a school work but I didn't finished it
